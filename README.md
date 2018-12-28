@@ -26,3 +26,5 @@ Run Jupyter:
 ```
 jupyter notebook
 ```
+Medium Post:
+https://medium.com/@recedingdetermination/potential-effects-of-recessions-on-health-and-income-dispersion-33f3732d3c61
